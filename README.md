@@ -13,7 +13,7 @@ No installation required
 
 ##Screenshot
 
-<img src="./assets/screenshot.png" alt="website full page capture" />
+<img src="./screenshot.png" alt="website full page capture" />
 
 ## Link
 https://princeultim8.github.io/horiseon-code-refactor/
