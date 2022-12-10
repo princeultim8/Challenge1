@@ -16,4 +16,4 @@ No installation required
 <img src="./screenshot.png" alt="website full page capture" />
 
 ## Link
-https://princeultim8.github.io/horiseon-maeketing-agency/
+https://princeultim8.github.io/horiseon-marketing-agency/
